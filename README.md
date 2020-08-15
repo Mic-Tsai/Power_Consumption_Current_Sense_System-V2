@@ -1,7 +1,7 @@
 Power Consumption | Current Sense System V2
 ==============================================
 
-Feature come out with 4x ADS1115 in one I2C bus. Maxinum measurement channel are 8, RGB OLED display (ST7789 130x160) print results in the same time, also support SD card data log. 
+Maxinum 8 channels measurement, come out with 4x ADS1115 in one I2C bus. RGB OLED display (ST7789 130x160) print results real-time update, also support SD card data log. 
 
 ** Important ** 
 Before you logging the power consumption results, the resistor value need to be calculate by multimeter. You can press the buttom to do the value change very quickly! 
