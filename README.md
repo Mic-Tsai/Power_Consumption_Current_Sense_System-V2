@@ -36,8 +36,7 @@ This product is open source! Both, our hardware and software are open source and
 
 ## Hardware
 
-**All hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
-![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+**All hardware is released under [Creative Commons Share-alike 4.0 International]**
 
 ## Software 
 
@@ -45,5 +44,4 @@ This product is open source! Both, our hardware and software are open source and
 
 ## Documentation
 
-**The documentation on this page is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
-![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+**The documentation on this page is released under [Creative Commons Share-alike 4.0 International]**
