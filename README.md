@@ -28,6 +28,7 @@ Detail information please refer system block diagram.
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_5.png)
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_6.png)
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/ch1_iload.png)
+![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_7.png)
 ## 
 
 ## License Information
