@@ -1,5 +1,5 @@
-Power Consumption | Current Sense System V2
-==============================================
+# Power Consumption | Current Sense System V2
+
 Arduino base power consumption calculator. Print results as UART interface and oled display, also have SD card to log data.
 
 Maxinum 8 differential channels, come out with 4x ADS1115 in one I2C bus. RGB OLED display (ST7789 130x160) results show as real-time update, also support SD card data log. 
@@ -11,12 +11,14 @@ Before you log the power consumption results, the resistor value need to be calc
 After the data logging into SD card, plot data into image via a pyhton script.
 ## 
 
+
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
-## 
+* Contact me via mail (xbcke12345@gmail.com)
 
+##
 Detail information please refer system block diagram.
 
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_1.png)
