@@ -16,7 +16,6 @@ Any question or need technical support:
 * Contact me via mail (xbcke12345@gmail.com)
 
 ##
-Detail information please refer system block diagram.
 
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_1.png)
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_2.png)
