@@ -11,11 +11,6 @@ Before you log the power consumption results, the resistor value needs to be cal
 After the data logging into the SD card, plot data into an image via a python script.
 ## 
 
-
-If you want to buy this board and are in Taiwan, please visit my shop: 
-
-Will OPEN SOON:
-* [HECS SHOP](https://www.)
 * Contact me via mail (xbcke12345@gmail.com)
 
 ##
