@@ -1,5 +1,7 @@
 # Power Consumption | Current Sense System V2
 
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 Arduino based power consumption calculator. Print results as UART interface and OLED display, also have SD card to log data.
 
 Maximum 8 differential channels, come out with 4x ADS1115 in one I2C bus. RGB OLED display (ST7789 130x160) results show as a real-time update also supports the SD card data log. 
