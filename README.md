@@ -23,7 +23,7 @@ Any question or need technical support:
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_4.png)
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_5.png)
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_6.png)
-![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/ch1_iload.png)
+![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power_Consumption_Current_Sense_System-V2/blob/master/example/Python_Plot/Battery%20example/ch1_vload_dis-charge.png)
 ![*Power Consumption | Current Sense System V2*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V2/blob/master/res/Current%20Sense%20System%20V2_7.png)
 ## 
 
